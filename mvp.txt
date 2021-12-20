@@ -1,0 +1,17 @@
+Pitch
+---
+  create an app where users can create different character spellbooks for 5e dnd campaigns
+
+MVP
+---
+  users can login/register
+  users can make spellbooks for different classes and characters
+  users can choose to be class limited or able to add any spell on creation, and can change the type whenever.
+  the spell book will be user named and will automatically set the theme based on class
+  Users spell book will provide a quick reference to the class spell mechanics and the spells saved in their book
+  users can add notes to spells/spellbooks
+
+future features
+---
+  automate character actions, readying spells, using mats, etc
+  expand scope of app to be a character/campaign manager.
