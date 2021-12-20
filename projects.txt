@@ -1,0 +1,9 @@
+DND spellbook using the 5th edition api, http://www.dnd5eapi.co/
+
+dnd campaign tracker, dm's can set groups and keep notes for campaigns. establish campaign notes. players cvan keep notes as well. would be nice to include char sheets too.
+
+make a tcg scanner using opencv and various tcg api's
+
+use open weather to generate snow/weather forecasts for favorited locations
+
+refactor my foundation capstone to ssr with ts add commenting and review functionality. 
